@@ -1,0 +1,23 @@
+c:\users\emir\documents\visual studio 2013\Projects\Pairo\Pairo\bin\Debug\Pairo.exe.config
+C:\Users\emir\Desktop\Pairo\Pairo\bin\Debug\Pairo.exe.config
+C:\Users\emir\Desktop\Pairo\Pairo\bin\Debug\Pairo.exe
+C:\Users\emir\Desktop\Pairo\Pairo\bin\Debug\Pairo.pdb
+C:\Users\emir\Desktop\Pairo\Pairo\bin\Debug\LiveForSpeed.InSim.Aegio.dll
+C:\Users\emir\Desktop\Pairo\Pairo\obj\Debug\Pairo.csprojResolveAssemblyReference.cache
+C:\Users\emir\Desktop\Pairo\Pairo\obj\Debug\Pairo.Form1.resources
+C:\Users\emir\Desktop\Pairo\Pairo\obj\Debug\Pairo.Properties.Resources.resources
+C:\Users\emir\Desktop\Pairo\Pairo\obj\Debug\Pairo.csproj.GenerateResource.Cache
+C:\Users\emir\Desktop\Pairo\Pairo\obj\Debug\Pairo.exe
+C:\Users\emir\Desktop\Pairo\Pairo\obj\Debug\Pairo.pdb
+D:\31.12.2016 Dosyalar\Pairo\Pairo\bin\Debug\Pairo.exe.config
+D:\31.12.2016 Dosyalar\Pairo\Pairo\bin\Debug\Pairo.exe
+D:\31.12.2016 Dosyalar\Pairo\Pairo\bin\Debug\Pairo.pdb
+D:\31.12.2016 Dosyalar\Pairo\Pairo\bin\Debug\LiveForSpeed.InSim.Aegio.dll
+D:\31.12.2016 Dosyalar\Pairo\Pairo\obj\Debug\Pairo.csprojAssemblyReference.cache
+D:\31.12.2016 Dosyalar\Pairo\Pairo\obj\Debug\Pairo.Form1.resources
+D:\31.12.2016 Dosyalar\Pairo\Pairo\obj\Debug\Pairo.Properties.Resources.resources
+D:\31.12.2016 Dosyalar\Pairo\Pairo\obj\Debug\Pairo.csproj.GenerateResource.cache
+D:\31.12.2016 Dosyalar\Pairo\Pairo\obj\Debug\Pairo.csproj.CoreCompileInputs.cache
+D:\31.12.2016 Dosyalar\Pairo\Pairo\obj\Debug\Pairo.csproj.CopyComplete
+D:\31.12.2016 Dosyalar\Pairo\Pairo\obj\Debug\Pairo.exe
+D:\31.12.2016 Dosyalar\Pairo\Pairo\obj\Debug\Pairo.pdb
